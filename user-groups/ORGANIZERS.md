@@ -203,6 +203,8 @@ The [OpenSearch User Group program](https://opensearch.org/user-groups/) is supp
 |---|---|---|---|
 | Chetna Sakarde | community | [chetna-sakarde](https://github.com/chetna-sakarde) | [LI](https://www.linkedin.com/in/chetnasakarde2006/) |
 | Gunjan Ghangare | community | [gunjan-ghangare](https://github.com/gunjan-ghangare) | [LI](https://www.linkedin.com/in/gunjanghangare/) |
+| Kris Freedain | Amazon | [krisfreedain](https://github.com/krisfreedain) | [LI](https://www.linkedin.com/in/krisfreedain) |
+
 
 ## [OpenSearch Project Nagpur](https://www.meetup.com/opensearch-project-nagpur/)
 
